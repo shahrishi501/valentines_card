@@ -84,7 +84,7 @@ class _ValentineCardPageState extends State<ValentineCardPage>
             children: [
               if (!_showCelebration)
                 Image.asset(
-                  '/Users/rishishah/Desktop/valentine/valentine_web/assets/vd.gif', // Heart animation GIF
+                  'assets/vd.gif', // Heart animation GIF
                   height: 200,
                 ),
               // if (_showCelebration)
@@ -119,7 +119,7 @@ class _ValentineCardPageState extends State<ValentineCardPage>
                                 context: context,
                                 builder: (context) => AlertDialog(
                                   title: const Text('❤️ Yay! ❤️'),
-                                  content: Image.asset("/Users/rishishah/Desktop/valentine/valentine_web/assets/vd2.gif",height: 200, width: 200,),
+                                  content: Image.asset("assets/vd2.gif",height: 200, width: 200,),
                                   actions: [
                                     TextButton(
                                       onPressed: () {
