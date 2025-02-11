@@ -52619,7 +52619,7 @@ s===$&&A.b()
 s.l()
 this.JY()},
 R(a){var s,r,q,p,o=this,n=null,m=A.a([B.il,B.ip],t.bk),l=t.nA,k=A.a([],l)
-if(!o.w)k.push(A.a6n("/Users/rishishah/Desktop/valentine/valentine_web/assets/vd.gif",200,n))
+if(!o.w)k.push(A.a6n("assets/vd.gif",200,n))
 k.push(B.Fb)
 s=o.r?1:0
 r=A.t1(n,n,B.ig,n,n,n,n,n,n,n,n,32,n,n,B.br,n,n,!0,n,n,n,n,n,n,n,n)
@@ -52652,7 +52652,7 @@ r.pV(A.aeg(null,p,!0,null,new A.a_P(),s,null,q,B.tQ,!0,t.z))},
 $S:0}
 A.a_P.prototype={
 $1(a){var s=null
-return new A.lm(B.JU,A.a6n("/Users/rishishah/Desktop/valentine/valentine_web/assets/vd2.gif",200,200),A.a([new A.Bb(new A.a_N(a),s,s,s,s,s,s,!1,s,!0,B.JT,s)],t.nA),s)},
+return new A.lm(B.JU,A.a6n("assets/vd2.gif",200,200),A.a([new A.Bb(new A.a_N(a),s,s,s,s,s,s,!1,s,!0,B.JT,s)],t.nA),s)},
 $S:356}
 A.a_N.prototype={
 $0(){A.qp(this.a,!1).ev()},
